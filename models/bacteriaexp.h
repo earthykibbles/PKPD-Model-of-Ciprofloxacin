@@ -1,4 +1,6 @@
 
+// Simple bacteria dynamics without carrying capacity limitations
+
 class BacteriaExp {
 public:
 	double k;

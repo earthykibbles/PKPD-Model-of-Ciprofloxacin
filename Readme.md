@@ -14,14 +14,20 @@ Major assumptions have to be made aligning to present pharmaceutical studies don
 - The bacteria shows no antibiotic resistance.
 - Drug absorpion by all peripheral organs is similar and constant.
 
+### Result
+
+This image shows a sample result. Values can be corrected to the bacteria strain and the MIC and MBC of the drug.
+
+![Results.png](results/result1.png "Title")
+
 ### Tools Used in the Analysis
 
 - C++ and STL
 - Gnuplot
 - Visual Studio 2022
 
-
-
 ### References
 
 <a id="1">[1]</a> Ashurst, J. V., & Dawson, A. (2021). Klebsiella Pneumonia, StatPearls.
+
+<a id="2">[2] </a> Wentland, E. J., Stewart, P. S., Huang, C. T., & McFeters, G. A. (1996). Spatial variations in growth rate within Klebsiella pneumoniae colonies and biofilm. Biotechnology progress, 12(3), 316–321. https://doi.org/10.1021/bp9600243
